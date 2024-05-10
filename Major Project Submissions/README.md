@@ -1,5 +1,5 @@
 # Major project : 
-colab link : https://colab.research.google.com/drive/1aURHglvcSLyLEanZO1e3pY0AkNpk3dwl#scrollTo=nvQx4wDfe8vY
+colab link : (https://colab.research.google.com/drive/1LMf8by2Z8RLMkB0cB7eJGbZ0T4wFyz88?usp=sharing)
 ## Problem Statements - 
 ![1](https://user-images.githubusercontent.com/82227477/177264668-ce254b14-e8b7-49b7-82d7-3e307a011916.png)<br>
 ![2](https://user-images.githubusercontent.com/82227477/177264800-aa8896e5-ead8-40c6-be94-f53d1ee56aca.png)<br>
